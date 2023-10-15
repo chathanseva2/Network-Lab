@@ -2,6 +2,7 @@
 struct node
 {
 unsigned dist[20];
+;
 unsigned from[20];
 }rt[10];
 int main()
